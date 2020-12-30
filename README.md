@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am Eliza Huang 黄子衿「huáng zǐ jīn」. Feel free to checkout my [Portfolio site](https://portfolio-seven-phi.vercel.app/)
+I am Eliza Huang 黄子衿「huáng zǐ jīn」. Feel free to checkout my [Portfolio site](https://portfolio-seven-phi.vercel.app/).
 
 - 🔭 I’m currently working on a new portfolio site.
 - 🌱 I’m currently learning digital illustration.
