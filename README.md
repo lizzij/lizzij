@@ -1,3 +1,3 @@
 ### Hello 👋
 
-Personal site 👉[lizzij.me](https://lizzij.me)
+Personal site 👉 [lizzij.me](https://lizzij.me)
