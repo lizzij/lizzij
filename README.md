@@ -1,7 +1,7 @@
-<h3>
+<p align="left">
   <img src="assets/head0.gif" width="100" align="top" alt="" />
   <em>hi ~</em>
-</h3>
+</p>
 
 <p align="left">
   <a href="https://lizzij.me/">
