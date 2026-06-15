@@ -1,12 +1,5 @@
-*code is cheap, show me the aesthetics* ✨
-
 <p align="left">
   <img src="assets/head0.gif" width="90" alt="" />
-  <img src="assets/head1.gif" width="90" alt="" />
-  <img src="assets/head2.gif" width="90" alt="" />
-  <img src="assets/head3.gif" width="90" alt="" />
-  <img src="assets/head4.gif" width="90" alt="" />
-  <img src="assets/head5.gif" width="90" alt="" />
 </p>
 
 <p align="left">
