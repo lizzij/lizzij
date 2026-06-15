@@ -1,6 +1,4 @@
-### Hello 👋
-
-> *code is cheap, show me the aesthetics* ✨
+*code is cheap, show me the aesthetics* ✨
 
 <p align="left">
   <img src="assets/head0.gif" width="90" alt="" />
