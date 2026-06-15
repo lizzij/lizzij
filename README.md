@@ -1,7 +1,9 @@
-<p align="left">
-  <img src="assets/head0.gif" width="90" alt="" align="bottom" />
-  <sup><sup><sup><em>hi ~</em></sup></sup></sup>
-</p>
+<table border="0">
+  <tr>
+    <td valign="bottom"><img src="assets/head0.gif" width="110" alt="" /></td>
+    <td valign="top"><h1><em>hi ~</em></h1></td>
+  </tr>
+</table>
 
 <p align="left">
   <a href="https://lizzij.me/">
