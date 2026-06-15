@@ -9,6 +9,14 @@
   <img src="assets/head5.gif" width="90" alt="" />
 </p>
 
-[![Website](https://img.shields.io/badge/lizzij.me-000000?style=for-the-badge&logo=safari&logoColor=white)](https://lizzij.me/)
-[![X](https://img.shields.io/badge/@lizzij__me-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lizzij_me)
-[![Instagram](https://img.shields.io/badge/lizzij.me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lizzij.me/)
+<p align="left">
+  <a href="https://lizzij.me/">
+    <img src="https://img.shields.io/badge/lizzij.me-ff8fab?style=flat-square&logo=safari&logoColor=white&labelColor=ff8fab" alt="Website" height="28" />
+  </a>&nbsp;
+  <a href="https://x.com/lizzij_me">
+    <img src="https://img.shields.io/badge/@lizzij__me-fb6f92?style=flat-square&logo=x&logoColor=white&labelColor=fb6f92" alt="X" height="28" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/lizzij.me/">
+    <img src="https://img.shields.io/badge/lizzij.me-ff5d8f?style=flat-square&logo=instagram&logoColor=white&labelColor=ff5d8f" alt="Instagram" height="28" />
+  </a>
+</p>
