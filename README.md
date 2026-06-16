@@ -1,6 +1,6 @@
 <p align="left">
   <img src="assets/head0.gif" width="100" align="top" alt="" />
-  <em>hello world~</em>
+  <em>hello world ~</em>
 </p>
 
 <p align="left">
