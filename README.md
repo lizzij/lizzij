@@ -12,5 +12,8 @@
   </a>&nbsp;
   <a href="https://www.instagram.com/lizzij.me/">
     <img src="https://img.shields.io/badge/lizzij.me-ff5d8f?style=flat&logo=instagram&logoColor=white&labelColor=ff5d8f" alt="Instagram" height="28" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/lizzij/">
+    <img src="https://img.shields.io/badge/lizzij-ff4d6d?style=flat&logo=linkedin&logoColor=white&labelColor=ff4d6d" alt="LinkedIn" height="28" />
   </a>
 </p>
