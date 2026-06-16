@@ -2,7 +2,7 @@
 <br>
 
 <p align="left">
-  <img src="assets/head0.gif" width="100" align="top" alt="" />
+  <img src="assets/head0.gif" width="100" align="left" alt="" />
   <em>hello world ~</em>
   <br>
   <a href="https://lizzij.me/"><img src="assets/btn-link.v10.svg" alt="Website" height="30" /></a>
