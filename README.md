@@ -4,9 +4,9 @@
 </p>
 
 <p align="left">
-  <a href="https://lizzij.me/"><img src="assets/btn-globe.v7.svg" alt="Website" height="30" /></a>
-  <a href="https://x.com/lizzij_me"><img src="assets/btn-x.v7.svg" alt="X" height="30" /></a>
-  <a href="https://www.instagram.com/lizzij.me/"><img src="assets/btn-instagram.v7.svg" alt="Instagram" height="30" /></a>
-  <a href="https://www.linkedin.com/in/lizzij/"><img src="assets/btn-linkedin.v7.svg" alt="LinkedIn" height="30" /></a>
-  <a href="https://buymeacoffee.com/lizzij"><img src="assets/btn-buymeacoffee.v7.svg" alt="Buy Me a Coffee" height="30" /></a>
+  <a href="https://lizzij.me/"><img src="assets/btn-globe.v8.svg" alt="Website" height="30" /></a>
+  <a href="https://x.com/lizzij_me"><img src="assets/btn-x.v8.svg" alt="X" height="30" /></a>
+  <a href="https://www.instagram.com/lizzij.me/"><img src="assets/btn-instagram.v8.svg" alt="Instagram" height="30" /></a>
+  <a href="https://www.linkedin.com/in/lizzij/"><img src="assets/btn-linkedin.v8.svg" alt="LinkedIn" height="30" /></a>
+  <a href="https://buymeacoffee.com/lizzij"><img src="assets/btn-buymeacoffee.v8.svg" alt="Buy Me a Coffee" height="30" /></a>
 </p>
