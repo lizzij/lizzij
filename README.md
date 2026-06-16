@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="assets/head0c.gif" width="130" align="left" alt="" />
-  <img src="assets/hello.png" height="22" alt="hello world ~" /><img src="assets/sp.png" width="1" height="40" align="top" alt="" />
+  <img src="assets/hello2.png" height="44" alt="hello world ~" />
   <br>
   <a href="https://lizzij.me/"><img src="assets/btn-link.v12.svg" alt="Website" height="30" /></a>
   <a href="https://x.com/lizzij_me"><img src="assets/btn-x.v12.svg" alt="X" height="30" /></a>
