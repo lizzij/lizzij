@@ -1,8 +1,10 @@
 <br>
 
 <p align="left">
-  <img src="assets/head0b.gif" width="124" align="left" alt="" />
+  <img src="assets/head0c.gif" width="116" align="left" alt="" />
   <em>hello world ~</em>
+  <br>
+  <img src="assets/sp.png" width="1" height="10" alt="" />
   <br>
   <a href="https://lizzij.me/"><img src="assets/btn-link.v10.svg" alt="Website" height="30" /></a>
   <a href="https://x.com/lizzij_me"><img src="assets/btn-x.v10.svg" alt="X" height="30" /></a>
